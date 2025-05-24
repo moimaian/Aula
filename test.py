@@ -12,4 +12,6 @@ def fatorial(n):
 resultado = fatorial(int(n))
 print(f"O fatorial de {n} é {resultado}")
 print(esse é um test raul)
+print(Esse é um teste do Ahmad)
+
 
