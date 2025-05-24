@@ -11,3 +11,5 @@ def fatorial(n):
     return 'O número deve ser positivo'
 resultado = fatorial(int(n))
 print(f"O fatorial de {n} é {resultado}")
+print(esse é um test raul)
+
